@@ -1,0 +1,52 @@
+.sortIcon-menu{
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    z-index: 11;
+    cursor: pointer;
+ }
+.sort-panel-menu{
+	border-bottom: 1px solid #777777;
+	padding-bottom: 3px;
+	margin-bottom: 3px;
+	text-align: right;
+}
+.sort-icon-menu{
+	cursor: pointer;
+}
+.sort-list-block-menu{
+	position: relative;
+	top: -30px;
+	padding-top:20px;
+}
+
+
+.sortIcon{
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    z-index: 11;
+    cursor: pointer;
+ }
+.sort-panel{
+	border-bottom: 1px solid #a3d06c;
+	padding-bottom: 3px;
+	margin-bottom: 3px;
+	text-align: right;
+}
+.sort-icon{
+	cursor: pointer;
+}
+.sort-list-block{
+	position: relative;
+	top: -30px;
+}
+
+.attachment-30x30 {
+    float: right;
+    margin: 0px 0px 15px 15px;
+    padding: 0 0 0 15px;
+    width:30;
+    height:16;
+    margin: -7px -15px;
+}
