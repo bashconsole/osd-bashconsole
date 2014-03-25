@@ -3,7 +3,7 @@
 /*
 Plugin Name: osd-bashconsole
 Plugin URI: 
-Description: [osd-bashconsole] shortcode
+Description: Submenu widget and [osdsubpagesbashconsole] submenu shortcode
 Version: 1.0
 Author:  bashconsole
 Author URI:  http://bashconsole.com
